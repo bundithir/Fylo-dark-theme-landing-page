@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fylo-dark-theme-landing-page/static/css/main.198b5147.css",
+    "main.js": "/Fylo-dark-theme-landing-page/static/js/main.2c6d97b9.js",
+    "static/js/787.16c53bcc.chunk.js": "/Fylo-dark-theme-landing-page/static/js/787.16c53bcc.chunk.js",
+    "index.html": "/Fylo-dark-theme-landing-page/index.html",
+    "static/media/bg-curvy-desktop.svg": "/Fylo-dark-theme-landing-page/static/media/bg-curvy-desktop.953dbf39a0ba9d537f9d.svg",
+    "main.198b5147.css.map": "/Fylo-dark-theme-landing-page/static/css/main.198b5147.css.map",
+    "main.2c6d97b9.js.map": "/Fylo-dark-theme-landing-page/static/js/main.2c6d97b9.js.map",
+    "787.16c53bcc.chunk.js.map": "/Fylo-dark-theme-landing-page/static/js/787.16c53bcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198b5147.css",
+    "static/js/main.2c6d97b9.js"
+  ]
+}
